@@ -1,7 +1,7 @@
 ### Hi there 👋
-🛠️ i mostly build apps for Android (native and Flutter) </br>
-🌱 i’m currently learning https://www.nand2tetris.org/ </br>
-📫 reach me at hobbs.rachael@gmail.com
+🛠️ &nbsp;I mostly build apps for Android (native and Flutter) </br>
+🌱 &nbsp;I’m currently learning https://www.nand2tetris.org/ </br>
+📫 &nbsp;Reach me at hobbs.rachael@gmail.com
 
 <!--
 **rahobbs/rahobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
